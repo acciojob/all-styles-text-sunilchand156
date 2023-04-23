@@ -7,7 +7,12 @@
 	border-left: 5px solid green;
 	margin:20px;
 	font-size:20px solid white;
-	color: white;
+		color: white;
 	font-size:20px;
 }
 
+
+#heading{
+	color: white;
+	font-size:20px;
+}
